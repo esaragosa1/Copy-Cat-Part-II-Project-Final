@@ -1,0 +1,23 @@
+h1 {
+  margin: 1%;
+  color: red;
+  font-family: 'Courier New', Courier, monospace;
+}
+* {
+
+  background-color: wheat;
+}
+.planes {
+  margin-right:-2%;
+  position: relative;
+}
+/*This spaced out my icons but I still need to rework the icons and add labels*/
+span.navigationSpace {
+  padding-left: 90px;
+}
+/*h2 header to let users know how to access link. Still need to work on this.*/
+h2 {
+  margin-bottom: 1%;
+  font-size: 12px;
+  font-family: 'Courier New', Courier, monospace;
+}
